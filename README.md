@@ -5,4 +5,4 @@ a dashboard app for online shop with admin and user signup/login, dashboard, pro
 
 
 
-~created with Django~
+*created with Django*
